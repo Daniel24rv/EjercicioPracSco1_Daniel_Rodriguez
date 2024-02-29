@@ -1,0 +1,7 @@
+libreria\demo\service\libroService.class
+libreria\demo\domain\libro.class
+libreria\demo\controller\libroController.class
+libreria\demo\TiendaHectorHernandezVargasApplication.class
+libreria\demo\service\impl\LibroServiceImpl.class
+libreria\demo\dao\LibroDao.class
+libreria\demo\ProjectConfig.class
